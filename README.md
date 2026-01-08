@@ -78,7 +78,7 @@
 - Type effectiveness and tempo signal evaluation
 - Reproducible results with CSV-based evaluation framework
 
-[View Repository →](your-link)
+[View Repository →](https://github.com/zytechnova/compsys726-showdown-expert-agent)
 
 ---
 
@@ -95,7 +95,7 @@
 - Evaluation protocol: 100 battles per seed against max-damage expert
 - Ablation studies comparing Rainbow vs vanilla DQN and controller complexity
 
-[View Repository →](your-link)
+[View Repository →](https://github.com/zytechnova/compsys726-showdown-rl-env)
 
 ---
 
@@ -112,7 +112,7 @@
 - Side-by-side visualization and performance analysis
 - Modular processing pipeline
 
-[View Repository →](your-link)
+[View Repository →](https://github.com/zytechnova/triton-canny-edge-detection)
 
 ---
 
