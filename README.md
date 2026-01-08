@@ -116,11 +116,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zytechnova&show_icons=true&theme=radical&count_private=true&hide_title=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zytechnova&layout=compact&theme=radical&hide_title=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zytechnova&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zytechnova&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
